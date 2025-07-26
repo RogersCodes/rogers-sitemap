@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml"
+>
+  <!-- Home page -->
+  <url>
+    <loc>https://rogersfitnessclub.co.ke/</loc>
+    <lastmod>2025-07-26</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>1.0</priority>
+  </url>
+
+  <!-- FAQs page -->
+  <url>
+    <loc>https://rogersfitnessclub.co.ke/faqs</loc>
+    <lastmod>2025-07-26</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+
+  <!-- Nutrition page -->
+  <url>
+    <loc>https://rogersfitnessclub.co.ke/nutrition</loc>
+    <lastmod>2025-07-26</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+
+  <!-- Workouts page -->
+  <url>
+    <loc>https://rogersfitnessclub.co.ke/workouts</loc>
+    <lastmod>2025-07-26</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+
+  <!-- Blog page -->
+  <url>
+    <loc>https://rogersfitnessclub.co.ke/blog</loc>
+    <lastmod>2025-07-26</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+</urlset>
