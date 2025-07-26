@@ -1,0 +1,7 @@
+# robots.txt for rogersfitnessclub.co.ke
+User-agent: *
+Disallow: /admin/
+Disallow: /private/
+Allow: /
+
+Sitemap: https://rogersfitnessclub.co.ke/sitemap.xml
